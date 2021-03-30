@@ -1,11 +1,13 @@
-# hard-rock-solution
+
+# Site Name Hard-Rock
+Simple Js Project
+Practicing Api
+# Live-Server : https://usmanfaroqq.github.io/Hard-rock-Api/
+
+
 ### Search Song
 api link: https://api.lyrics.ovh/suggest/:searchText
-
-example: https://api.lyrics.ovh/suggest/hello
 
 ### Lyric
 lyric link: https://api.lyrics.ovh/v1/:artist/:title
 
-example: https://api.lyrics.ovh/v1/Adele/Hello
-# Hard-rock-Api
